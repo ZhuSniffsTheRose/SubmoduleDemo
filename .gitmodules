@@ -1,0 +1,3 @@
+[submodule "SubmoduleDemo_common"]
+	path = SubmoduleDemo_common
+	url = git@github.com:ZhuSniffsTheRose/SubmoduleDemo_common.git
